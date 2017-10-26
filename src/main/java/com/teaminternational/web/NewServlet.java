@@ -20,6 +20,5 @@ public class NewServlet extends BaseHttpServlet {
         HelloWorldGeneratorImpl helloWorldGenerator = getBean(HelloWorldGenerator.COMPONENT_NAME);
         helloWorldGenerator.sayHello();
 
-        System.out.println(helloWorldGenerator.sayHello());
     }
 }
