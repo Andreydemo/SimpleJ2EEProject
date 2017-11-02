@@ -1,3 +1,8 @@
+# Lab project skeletons
+
+ - [OnlineShop](https://github.com/Andreydemo/OnlineShop)
+ - [TrainTickets](https://github.com/Andreydemo/TrainTickets)
+
 # Practice task:
 
 - Fork SimpleJ2EEProject
